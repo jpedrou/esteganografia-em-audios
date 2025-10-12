@@ -1,6 +1,6 @@
 # 🎧 Esteganografia em Áudio: Ocultando Informações com LSB
 
-Este repositório contém uma implementação didática da técnica de Least Significant Bit (LSB) para ocultar qualquer tipo de informação (texto, imagens, ou outros arquivos) dentro de um arquivo de áudio no formato WAV.
+Este repositório contém uma implementação didática da técnica de Least Significant Bit (LSB) para ocultar textos e imagens dentro de um arquivo de áudio no formato WAV.
 
 A esteganografia LSB em áudio é um método discreto, pois as modificações são feitas nos bits menos importantes das amostras, resultando em uma alteração imperceptível ao ouvido humano.
 
